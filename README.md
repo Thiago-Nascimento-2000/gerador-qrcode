@@ -8,4 +8,4 @@
 <h3>Layout estatico mas visual, podendo gerar qrcodes, excluir e consultar a lista para poder visualizar e excluir qr gerado.</h3>
 <img src="https://i.ibb.co/chTDMCTs/screencapture-localhost-5173-rydeon-com-br-2025-07-29-22-10-03.png" alt="" width="800" height="1000">
 <br/>
-<span><h3>Pendencia: </h3>Componentização e Responsividade Mobile.</span>
+<span><h3>Pendencias para serem resolvidas: </h3>Componentização e Responsividade Mobile.</span>
